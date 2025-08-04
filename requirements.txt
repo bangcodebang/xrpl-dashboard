@@ -1,0 +1,6 @@
+streamlit==1.28.0
+websockets==11.0.3
+plotly==5.17.0
+pandas==2.1.1
+requests==2.31.0
+asyncio-mqtt==0.11.1
